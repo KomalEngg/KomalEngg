@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Komal+Rani
-    ;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Komal+Rani;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
 
 
